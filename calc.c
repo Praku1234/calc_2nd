@@ -1,6 +1,9 @@
 #include <stdio.h>
 int add(int a, int b) {
     return a + b;
+    float sub(int a, int b){
+return a - b;
+}
 }
 
 int main() {
